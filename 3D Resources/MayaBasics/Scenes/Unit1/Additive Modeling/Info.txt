@@ -1,0 +1,3 @@
+Moved all additive modeling - > UV Mapping for the UV Modeling + UV Modeling Challenge assignement
+
+Moved: lamp2, table2, vase, hammer2, chair4
