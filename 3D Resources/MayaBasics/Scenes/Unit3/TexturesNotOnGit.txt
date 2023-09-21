@@ -1,0 +1,3 @@
+Textures are to big of files, so they won't be found here!
+Zack's Textures files located:
+This PC > E Drive > Textures
