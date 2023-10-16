@@ -1,0 +1,3 @@
+The Maya file for this project is in unit 6 > Fishbowl
+
+I'm keeping it there for when it gets graded for the previous lab
